@@ -1,0 +1,5 @@
+{
+    "dotnet.defaultSolution": "Examples.sln",
+    "terminal.integrated.tabs.title": "${process}${cwd}",
+    "terminal.integrated.tabs.description": "${cwdFolder}${task}${separator}${local}${separator}"
+}

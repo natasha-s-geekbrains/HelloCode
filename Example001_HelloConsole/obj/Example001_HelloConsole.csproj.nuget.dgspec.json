@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\iru\\Documents\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
+    "c:\\Users\\iru\\Documents\\gb\\3_Знакомство с С#\\Л1\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
   },
   "projects": {
-    "c:\\Users\\iru\\Documents\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
+    "c:\\Users\\iru\\Documents\\gb\\3_Знакомство с С#\\Л1\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\iru\\Documents\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectUniqueName": "c:\\Users\\iru\\Documents\\gb\\3_Знакомство с С#\\Л1\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "projectName": "Example001_HelloConsole",
-        "projectPath": "c:\\Users\\iru\\Documents\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectPath": "c:\\Users\\iru\\Documents\\gb\\3_Знакомство с С#\\Л1\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "packagesPath": "C:\\Users\\iru\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\iru\\Documents\\Examples\\Example001_HelloConsole\\obj\\",
+        "outputPath": "c:\\Users\\iru\\Documents\\gb\\3_Знакомство с С#\\Л1\\Examples\\Example001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\iru\\AppData\\Roaming\\NuGet\\NuGet.Config"
