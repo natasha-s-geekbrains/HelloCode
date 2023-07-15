@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "LrIG+23TY6iprTF5ZRY8q2/0O5/nm4xkeSCE5AWm8AiCFf7hBKASzLyQXH1QOAvU6QD+H1cVTpj3vg8SE9y8tQ==",
+  "dgSpecHash": "WGd7yoOADJ282z1Eh0cy+o1Uhqqnf98WsoLFOEt+vor1gcIVeRZIVZH/+6fKtSoCb2vmbVsfbYiSAjCE4lnKJg==",
   "success": true,
   "projectFilePath": "c:\\Users\\iru\\Documents\\gb\\3_Знакомство с С#\\Л1\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\iru\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\iru\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\iru\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\iru\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
